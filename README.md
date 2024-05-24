@@ -33,5 +33,13 @@ garantindo que todos os processos sejam eficientes e bem documentados.
 - Descrição: Script contendo diversas consultas SQL para extrair informações específicas do banco de dados.
 - Arquivo: queries.sql
 
+#### 6. Script de Rotinas
+
+- Descrição: Arquivo contendo procedures, functions e triggers para operações comuns no banco de sangue,
+  como inserção de doadores, pacientes e funcionários, cálculos relacionados à doação de sangue e verificações de integridade dos dados.
+- Arquivo: routines.sql
+
+####
+
   
 
