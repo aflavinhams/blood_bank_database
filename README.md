@@ -39,7 +39,11 @@ garantindo que todos os processos sejam eficientes e bem documentados.
   como inserção de doadores, pacientes e funcionários, cálculos relacionados à doação de sangue e verificações de integridade dos dados.
 - Arquivo: routines.sql
 
-####
+#### 7. Script de Transações
+
+- Descrição: Arquivo contendo transações garantindo a consistência dos dados mesmo em casos de falha durante a execução das operações.
+- Arquivo: transactions.sql
+
 
   
 
