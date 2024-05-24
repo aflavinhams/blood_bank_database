@@ -23,4 +23,7 @@ garantindo que todos os processos sejam eficientes e bem documentados.
 - Descrição: Script para criação do banco de dados e suas tabelas.
 - Arquivo: database.sql
 
-#### 4. 
+#### 4. Script de Manipulação
+
+- Descrição: Script contendo inserções, atualizações e exclusões de dados no banco de dados.
+- Arquivo: manipulation.sql
