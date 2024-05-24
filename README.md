@@ -44,6 +44,9 @@ garantindo que todos os processos sejam eficientes e bem documentados.
 - Descrição: Arquivo contendo transações garantindo a consistência dos dados mesmo em casos de falha durante a execução das operações.
 - Arquivo: transactions.sql
 
+#### 8. Script de Controle de Acesso
 
+- Descrição: Arquivo contendo definição de usuários e suas permissões no banco de dados.
+- Arquivo: control.sql
   
 
