@@ -27,3 +27,11 @@ garantindo que todos os processos sejam eficientes e bem documentados.
 
 - Descrição: Script contendo inserções, atualizações e exclusões de dados no banco de dados.
 - Arquivo: manipulation.sql
+
+#### 5. Script de Consultas 
+
+- Descrição: Script contendo diversas consultas SQL para extrair informações específicas do banco de dados.
+- Arquivo: queries.sql
+
+  
+
